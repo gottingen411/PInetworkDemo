@@ -1,0 +1,10 @@
+name: pinetworkdemo
+title:
+username:
+account: vinalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2514879
+bundleId: 3326975
+url: https://vinalytics.shinyapps.io/pinetworkdemo/
+when: 1593381859.22998
